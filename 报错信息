@@ -1,1 +1,4 @@
-/**/ typeof __ng_jsonp____req0_finished === 'function' && __ng_jsonp____req0_finished([{"id":32,"username":"1","password":"c4ca4238a0b923820dcc509a6f75849b","phone":"1","email":"1"}]);
+/**/ typeof __ng_jsonp____req0_finished === 'function' && __ng_jsonp____req0_finished
+([{"id":32,"username":"1","password":"c4ca4238a0b923820dcc509a6f75849b","phone":"1","email":"1"}]);
+
+使用jsonp 参数 callback="JSONP_CALLBACK" 后台返回 res.jsonp(rows)jsonp格式数据，但是还是报错。
